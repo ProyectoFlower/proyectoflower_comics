@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://proyectoflower.github.io/proyectoflower_comics/sitemap.xml

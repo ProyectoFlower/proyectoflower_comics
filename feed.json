@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Proyecto Flower Comics",
+    "description": "",
+    "home_page_url": "https://proyectoflower.github.io/proyectoflower_comics",
+    "feed_url": "https://proyectoflower.github.io/proyectoflower_comics/feed.json",
+    "user_comment": "",
+    "icon": "https://proyectoflower.github.io/proyectoflower_comics/media/website/logo-pf-grande.png",
+    "author": {
+        "name": "CIRUSBMAX"
+    },
+    "items": [
+    ]
+}
